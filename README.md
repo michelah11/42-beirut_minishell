@@ -108,16 +108,6 @@ src/
 
 ---
 
-## 🎁 Bonus (If Implemented)
-
-- Logical operators: `&&`, `||`
-- Wildcards (`*`) for file matching
-- Parentheses for command grouping and priority
-
-> ⚠️ Bonuses are **only evaluated** if the mandatory part is **perfectly functional**.
-
----
-
 ## ✅ Evaluation Criteria
 
 - Norm compliant
